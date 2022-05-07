@@ -41,4 +41,5 @@
     "vite.config.ts"
   ],
   "exclude": ["node_modules", "tests/server/**/*.ts", "dist", "**/*.js"]
+  
 }
